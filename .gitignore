@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+ibiza_local.db
+.venv/
+venv/
+*.db
